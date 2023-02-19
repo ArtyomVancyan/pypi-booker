@@ -11,7 +11,7 @@ setuptools.setup(
     url=url,
     name=name,
     version="0.0.0",
-    author="Artyom Vancyan",
-    author_email="artyom@pysnippet.org",
+    author="<author name>",
+    author_email="<author email>",
     description="The package is coming soon...",
 )
